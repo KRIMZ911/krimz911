@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on a application that will go live in both andriod and apple app store.
+- 🌱 I’m currently learning and becoming an expert in next.js and tailwind css
 <!--
 **KRIMZ911/krimz911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
