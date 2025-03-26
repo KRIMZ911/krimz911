@@ -5,7 +5,7 @@
 </p>
 
 <h3><i>Spare some time to take a look at my <a href="https://krimz911.github.io/MyCV/">portfolio</a>!</i></h3>
-I was full stack developer working thermal modeling and U value calculators. Love learning and reading books and just overall IMPROVING myself🔥🔥🔥
+I was full stack developer working thermal modeling and U value calculators.<br> Love learning and reading books and just overall IMPROVING myself🔥🔥🔥
 Researched 📚📚📚 UK regulations and laws as well as deep dive into the physics behind all things thermal calculations 🧠🧠🧠
 [University of Glasgow](https://www.gla.ac.uk/) Graduate 🎓🎓🎓 with an Honors degree✨ <br>
 - 🔭 I’m currently working on an application that will go live in both Android and Apple app stores.<br>
