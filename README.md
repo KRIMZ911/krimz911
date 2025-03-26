@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there It a Me BERS👋
+<h3><i>Spare some time to take a look at my <a href="https://anirudhbelwadi.com">portfolio</a>!</i></h3>
 - 🔭 I’m currently working on a application that will go live in both andriod and apple app store.
 - 🌱 I’m currently learning and becoming an expert in next.js and tailwind css
 <!--
