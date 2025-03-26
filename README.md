@@ -8,9 +8,9 @@
 I was full stack developer working thermal modeling and U value calculators. Love learning and reading books and just overall IMPROVING myself🔥🔥🔥
 Researched 📚📚📚 UK regulations and laws as well as deep dive into the physics behind all things thermal calculations 🧠🧠🧠
 [University of Glasgow](https://www.gla.ac.uk/) Graduate 🎓🎓🎓 with an Honors degree✨ <br>
-- 🔭 I’m currently working on an application that will go live in both Android and Apple app stores.
-- 🌱 I’m currently learning and becoming an expert in Next.js and Tailwind CSS.
-- 👨‍💻 Exploring new tech and passionate about building efficient and scalable applications.
+- 🔭 I’m currently working on an application that will go live in both Android and Apple app stores.<br>
+- 🌱 I’m currently learning and becoming an expert in Next.js and Tailwind CSS.<br>
+- 👨‍💻 Exploring new tech and passionate about building efficient and scalable applications.<br>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
