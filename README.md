@@ -5,7 +5,9 @@
 </p>
 
 <h3><i>Spare some time to take a look at my <a href="https://krimz911.github.io/MyCV/">portfolio</a>!</i></h3>
-
+I was full stack developer working thermal modeling and U value calculators. Love learning and reading books and just overall IMPROVING myself🔥🔥🔥
+Researched 📚📚📚 UK regulations and laws as well as deep dive into the physics behind all things thermal calculations 🧠🧠🧠
+[University of Glasgow](https://www.gla.ac.uk/) Graduate 🎓🎓🎓 with an Honors degree✨
 - 🔭 I’m currently working on an application that will go live in both Android and Apple app stores.
 - 🌱 I’m currently learning and becoming an expert in Next.js and Tailwind CSS.
 - 👨‍💻 Exploring new tech and passionate about building efficient and scalable applications.
@@ -51,10 +53,9 @@
 <p align="left">
   <a href=["https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/bers-batjargal/)" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/yourtwitterhandle" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+  </a><a href="mailto:bersbatjargal@gmail.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
   </p>
 
 <p align="center">
