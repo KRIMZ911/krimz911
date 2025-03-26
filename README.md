@@ -1,7 +1,7 @@
 ## Hi there It's Me BERS 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLoE9vHZhdiLeo/giphy.gif" width="300" alt="Animated Header" />
+  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="300" alt="Animated Header" />
 </p>
 
 <h3><i>Spare some time to take a look at my <a href="https://krimz911.github.io/MyCV/">portfolio</a>!</i></h3>
@@ -49,7 +49,7 @@
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yourlinkedinprofile" target="_blank">
+  <a href=["https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/bers-batjargal/)" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/yourtwitterhandle" target="_blank">
