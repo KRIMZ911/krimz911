@@ -9,7 +9,7 @@ I was full stack developer working thermal modeling and U value calculators.<br>
 Researched 📚📚📚 UK regulations and laws as well as deep dive into the physics behind all things thermal calculations 🧠🧠🧠<br>
  <a href="https://www.gla.ac.uk/">University of Glasgow</a>Graduate 🎓🎓🎓 with an Honors degree✨ <br>
 - 🔭 I’m currently working on an application that will go live in both Android and Apple app stores.<br>
-- 🌱 I’m currently learning and becoming an expert in Next.js and Tailwind CSS.<br>
+- 🌱 I’m currently learning and becoming an expert in GO and React Native.<br>
 - 👨‍💻 Exploring new tech and passionate about building efficient and scalable applications.<br>
 
 <a href="https://buymeacoffee.com/berseeee101">Support me</a><br>
